@@ -19,7 +19,9 @@ class App extends Component {
               <div className="column">
                     <Todo buttonColor="blue"/>
               </div>
-
+               <div className="column">
+                    <Todo buttonColor="blue"/>
+              </div>
 
       </div>
 
